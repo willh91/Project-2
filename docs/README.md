@@ -1,6 +1,8 @@
-TreeHouse TechDegree Project 2
+# Techdegree-Project-2
 
-I have completed all the steps required to meet expectations.
 
-I also added many other elements to the page to get the Exceeds Expectation grade.
-Link To My Project Through GitHub Pages - 
+This is my submission for the Techdegree Project 2 Assognment.
+
+I checked off all the required things we had to do as well as did the extra credit such as adding hover color changes and multiple fonts.
+
+If you have any questions feel free to ask!
